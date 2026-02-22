@@ -1,5 +1,12 @@
 <<<<<<< HEAD
 # Social Saver Bot 🤖📚
+Google Drive Public Link 
+
+https://drive.google.com/file/d/14V_NfmSNiWVfeDpUo6ztTawx67Edu-PX/view?usp=sharing
+
+youtube video link
+
+https://youtu.be/COANKmdonRc
 
 A WhatsApp bot that turns your Instagram saves (and other social media links) into a searchable knowledge base.
 
