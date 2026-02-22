@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Social Saver Bot 🤖📚
 
 A WhatsApp bot that turns your Instagram saves (and other social media links) into a searchable knowledge base.
@@ -172,3 +173,7 @@ The SQLite database (`saves.db`) stores:
 ## 📄 License
 
 MIT License - Feel free to use this for your hackathon!
+=======
+# sajalhackthethread
+This site will help in saving Instagram, Twitter and Blogs links in a single place
+>>>>>>> aa25a4cd460b9314f8d8867bc1783108aff38314
